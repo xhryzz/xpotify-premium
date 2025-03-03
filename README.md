@@ -25,7 +25,7 @@ Este repositorio contiene un archivo IPA para instalar Spotify premium en tu dis
 ### Paso 2: Instalar Sideloadly
 
 1. Si aún no tienes Sideloadly, descárgalo desde [el sitio oficial de Sideloadly](https://sideloadly.io/).
-2. Instala Sideloadly en tu utadora.
+2. Instala Sideloadly en tu equipo.
 
 ### Paso 3: Conectar tu dispositivo iOS
 
